@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mattandahalfew/newsname-match.png?label=ready&title=Ready)](https://waffle.io/mattandahalfew/newsname-match)
 NewsName-Match
 ==============
 
